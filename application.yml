@@ -5,8 +5,7 @@ spring:
     url: jdbc:mysql://localhost:3306/sys
     username: root
     password: Password1#
-  jpa.properties.hibernate.dialect: org.hibernate.dialect.MySQLDialect 
-  jpa.hibernate.ddl-auto: update
+  jpa.properties.hibernate.dialect: org.hibernate.dialect.MySQLDialect
   jpa.show-sql: true
 server:
  port: 8082
