@@ -8,6 +8,4 @@ spring:
   jpa.properties.hibernate.dialect: org.hibernate.dialect.MySQLDialect
   jpa.hibernet.ddl-auto: update
   jpa.show-sql: true
-server:
- port: 8082
  
